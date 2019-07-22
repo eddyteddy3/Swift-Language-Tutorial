@@ -1,4 +1,4 @@
-# Swift-Language-Tutorial
+# Swift Language Tutorial
 This playground contains **almost** all the main key topics get started with iOS Development.
 
 This playground contains the *simple code* with examples.
